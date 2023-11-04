@@ -1,6 +1,7 @@
 ![Alt text](giphy.gif)
 
-# Hola!👋 Soy Joaquin Hernan Botto
+<h1 align="center"> Hola!👋 Soy Joaquin Hernan Botto </h1>
+<h3 align="center">Un argentino apasionado por el desarrollo web y el mundo tech</h3>
 
 <hr />
 
