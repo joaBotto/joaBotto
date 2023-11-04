@@ -4,9 +4,6 @@
   <img src="giphy.gif" alt="GIF">
 </p>
 <hr />
-<p>
-  <img src="coding.gif" alt="GIF">
-</p>
 <hr />
 
 ### Sobre mi:
@@ -18,3 +15,14 @@ Una de mis principales cualidades es que siempre estoy buscando aprender nuevas 
 Como desarrollador full stack, tengo una amplia experiencia en varias tecnologias y frameworks. Estoy listo para adaptarme a cualquier equipo o proyecto. Soy una persona que facilmente se relaciona con sus compañeros, tengo la capacidad de siempre comunicarme de manera clara y concisa, para rapidamente llegar a un acuerdo en un intercambio de ideas. Estoy dispuesto a trabajar de manera colaborativa, sumar valor al equipo en el cual me desenvuelva.
 
 Si te interesan mis habilidades, podes contactarme en <a>joaquinbotto2@hotmail.com</a>
+
+<p>
+  <img src="coding.gif" alt="GIF">
+</p>
+
+### Mis experiencias:
+
+- Trabaje en un proyecto individual llamado [PI-Countries](https://github.com/joaBotto/PI-Countries)
+
+Tengo una amplia experiencia trabajando con tecnologias tales como:
+![Alt text](image.png) ![Alt text](image-1.png) ![Alt text](image-2.png) ![Alt text](image-3.png) ![Alt text](image-4.png) ![Alt text](image-5.png) ![Alt text](image-6.png) ![Alt text](image-7.png) ![Alt text](image-8.png) ![Alt text](image-9.png) ![Alt text](image-10.png) ![Alt text](image-11.png) ![Alt text](image-12.png)
