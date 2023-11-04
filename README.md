@@ -35,6 +35,4 @@ Si te interesan mis habilidades, podes contactarme en <a>joaquinbotto2@hotmail.c
 
 #### Tambien me puedes encontrar en diferentes redes sociales:
 
-<a href="https://www.instagram.com/jjoaquinbotto7"><img src="image-13.png" alt="Instagram" width="25"></a>
-
-<a href="https://www.twitter.com/bottojoaco"><img src="image-14.png" alt="Twitter" width="25"></a>
+<a href="https://www.instagram.com/jjoaquinbotto7"><img src="image-13.png" alt="Instagram" width="25"></a><a href="https://www.twitter.com/bottojoaco"><img src="image-14.png" alt="Twitter" width="25"></a>
