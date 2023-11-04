@@ -1,9 +1,9 @@
 <h1 align="center"> Hola!👋 Soy Joaquin Hernan Botto </h1>
+<hr/>
 <h3 align="center">Un joven apasionado por el desarrollo web y el mundo tech</h3>
 <p align="center">
   <img src="giphy.gif" alt="GIF">
 </p>
-<hr />
 <hr />
 
 ### Sobre mi:
@@ -16,6 +16,7 @@ Como desarrollador full stack, tengo una amplia experiencia en varias tecnologia
 
 Si te interesan mis habilidades, podes contactarme en <a>joaquinbotto2@hotmail.com</a>
 
+<hr />
 <p>
   <img src="coding.gif" alt="GIF">
 </p>
