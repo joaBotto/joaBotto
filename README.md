@@ -22,7 +22,14 @@ Si te interesan mis habilidades, podes contactarme en <a>joaquinbotto2@hotmail.c
 
 ### Mis experiencias:
 
-- Trabaje en un proyecto individual llamado [PI-Countries](https://github.com/joaBotto/PI-Countries)
+- Trabaje en un proyecto integrador llamado [Rick & Morty](https://github.com/joaBotto/rickandmorty)
+
+- Trabaje en un proyecto individual llamado [Countries](https://github.com/joaBotto/PI-Countries)
+
+- Trabaje en un proyecto final llamado [Inmuebles360](https://github.com/joaBotto/proyectofinal)
 
 Tengo una amplia experiencia trabajando con tecnologias tales como:
+
 ![Alt text](image.png) ![Alt text](image-1.png) ![Alt text](image-2.png) ![Alt text](image-3.png) ![Alt text](image-4.png) ![Alt text](image-5.png) ![Alt text](image-6.png) ![Alt text](image-7.png) ![Alt text](image-8.png) ![Alt text](image-9.png) ![Alt text](image-10.png) ![Alt text](image-11.png) ![Alt text](image-12.png)
+
+Tambien me puedes encontrar en diferentes redes sociales:
